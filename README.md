@@ -33,7 +33,8 @@ This project leverages generative AI to create personalized marketing content fo
 ## Architecture
 
 
-![bobhackathon1 drawio (6)](https://github.com/Team-DevSquad/BoB-Personalized-Content-Generation/assets/121743571/5d05eb0d-e768-446a-9b74-dff362cf0ac5)
+![Challenge6-DevSquad-SystemDesign](https://github.com/Team-DevSquad/BoB-Personalized-Content-Generation/assets/121743571/f463c3d0-7fd2-4b77-ab20-8e0c3dad567f)
+
 
 
 ## Security Considerations
