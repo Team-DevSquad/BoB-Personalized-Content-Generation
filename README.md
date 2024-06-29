@@ -25,25 +25,16 @@ This project leverages generative AI to create personalized marketing content fo
 
 ## Team
 
-- {person1 name}: Cyber security expert
-- {person2 name}: Backend developer
-- {person3 name}: Frontend developer
-- {person4 name}: AI/ML developer
+- Pruth Raut: Cyber security expert
+- Sanket Ugale: Backend developer
+- Ajay Maurya: Frontend developer
+- Vinay Savla: AI/ML developer
 
 ## Architecture
 
 
 ![bobhackathon1 drawio (6)](https://github.com/Team-DevSquad/BoB-Personalized-Content-Generation/assets/121743571/5d05eb0d-e768-446a-9b74-dff362cf0ac5)
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies
-3. Set up Azure resources
-4. Configure environment variables
-5. Run the application
-
-Detailed setup instructions to be added.
 
 ## Security Considerations
 
@@ -56,16 +47,3 @@ Detailed setup instructions to be added.
 ## Scalability
 
 Our solution is designed to be highly scalable, utilizing Azure Kubernetes Service (AKS) for containerized deployment and efficient resource management.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Azure for providing the cloud infrastructure
-- Our hackathon organizers and mentors
