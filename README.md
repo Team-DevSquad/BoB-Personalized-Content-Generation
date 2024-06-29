@@ -20,7 +20,7 @@ This project leverages generative AI to create personalized marketing content fo
 - AI/ML: Azure Machine Learning, Azure Cognitive Services
 - Background Processing: Golang
 - DevOps: Docker, Kubernetes
-- Cloud: Azure (various services)
+- Cloud: Azure (Azure Kubernetes Service, Azure Machine Learning, Azure Cognitive Services, Azure DevOps, Azure Security Center, Azure Sentinel etc.)
 - Data Analysis: [Specific tool names to be added]
 
 ## Team
